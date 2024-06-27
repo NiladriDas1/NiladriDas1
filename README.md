@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/premium-photo/developing-concentrated-programmer-reading-computer-codes-development-website-design_45041-178.jpg?size=626&ext=jpg" alt="picture" width="100" height="100"><br>
+<img src="https://img.freepik.com/premium-photo/developing-concentrated-programmer-reading-computer-codes-development-website-design_45041-178.jpg?size=626&ext=jpg" alt="picture" ><br>
 
 <h1 align="center">Hi 👋, I'm Niladri Das</h1>
 <h3 align="center">A passionate Software developer from India</h3>
