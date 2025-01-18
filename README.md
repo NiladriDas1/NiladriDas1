@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Niladri Das</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning & developing skill of myself .
+- 🌱 I’m currently learning & developing my skills.
 
 - 📫 How to reach me **codinghub2093@gmail.com**
 
